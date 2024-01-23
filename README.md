@@ -1,4 +1,4 @@
-# Hi
+# Hi Welcome to my GitHub profile.
 
 I am Abhishek and I'm studying Computer Science and i currently have knowlege about Python, DBMS, and Linux, and I'm learning Full-Stack Web Development.
 
