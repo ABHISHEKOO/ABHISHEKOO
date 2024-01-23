@@ -1,11 +1,11 @@
 
 I am abhishek 
-and studyes in computer science
- and i knowlege abhout python,dbms,linux
+and I study computer science
+ and i have knowlege abhout python,dbms,and linux.
 
- insta--abhi8569sharma
+ insta--  https://www.instagram.com/abhi8569sharma/
  
- git--ABHISHEKOO
- 
- Facebook-abhisharma
+ git--  https://github.com/ABHISHEKOO
+
+ linkedin--   n.linkedin.com/in/abhishek-sharma-394281247
  
