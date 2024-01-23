@@ -7,5 +7,4 @@ and I study computer science
  
  git--  https://github.com/ABHISHEKOO
 
- linkedin--   n.linkedin.com/in/abhishek-sharma-394281247
- 
+ linkedin--   https://in.linkedin.com/in/abhishek-sharma-394281247
