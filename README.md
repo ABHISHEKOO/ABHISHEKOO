@@ -1,7 +1,7 @@
 
 I am abhishek 
 and I study computer science
- and i have knowlege abhout python,dbms,and linux.
+ and i have knowlege abhout python, dbms, and linux.
 
  insta--  https://www.instagram.com/abhi8569sharma/
  
